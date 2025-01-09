@@ -1,2 +1,2 @@
 # Scratch_krouzek
-Pro ukládání postupu v kroužku o Scratchi
+Úložiště postupu ve Scratchi v kroužku DDM Olomouc
